@@ -1,0 +1,22 @@
+# 1. 파이썬 실행 시 생성되는 캐시 파일 및 임시 파일 제거
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 2. 가상환경 폴더 제외
+venv/
+.venv/
+env/
+
+# 3. 음악 파일 및 작업 폴더 제외
+old/
+new/
+*.mp3
+*.wav
+*.flac
+
+# 4. 운영체제에서 자동으로 생성하는 시스템 파일 제외
+.DS_Store
+Thumbs.db
