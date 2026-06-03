@@ -50,11 +50,6 @@ chmod +x start.sh
 ```
 ./start.sh
 ```
----
-
-## 🛠️ 실행에 필요한거
-Language: Python 3
-Libraries: mutagen
 
 ---
 
