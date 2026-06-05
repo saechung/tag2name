@@ -16,6 +16,9 @@ new/
 *.mp3
 *.wav
 *.flac
+build/
+dist/
+*.spec
 
 # 4. 운영체제에서 자동으로 생성하는 시스템 파일 제외
 .DS_Store
